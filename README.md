@@ -1,2 +1,2 @@
 # baufi-konditionen
-Python Bootcamp
+Python Bootcamp mit Flask und Europace API-Anbindung
